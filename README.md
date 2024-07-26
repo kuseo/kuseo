@@ -20,24 +20,23 @@
 </br>
 
 
-### **INTEREST** 
+### INTEREST*
 
-Machine Learning</br>
-Container Orchestration</br>
-Distributed Computing</br>
-MLOps
+*Machine Learning*</br>
+*Container Orchestration*</br>
+*Distributed Computing*</br>
+*MLOps*
 </br>
 
 
-### **BLOG**
+### BLOG
 
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://crystalline-ferryboat-8cf.notion.site/ab445935e22f41799f59016930fb15c2?v=c43c88bc7781435e998c801e049451e7&pvs=4)
 </br>
 
 
-### **CONTACT**
+### CONTACT
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kang-uk-seo-7a81b3143/)](https://www.linkedin.com/in/kang-uk-seo-7a81b3143/)
-
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tjrkddnr200@gmail.com)](mailto:tjrkddnr200@gmail.com)
 
 </div>
