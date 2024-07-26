@@ -4,6 +4,7 @@
 
 
 
+
 ### **TECH STACK**
 <!--
 <img src="https://img.shields.io/badge/스킬이름-배경색상코드.svg?&style=for-the-badge&logo=로고이름&logoColor=로고색상"/></a>
@@ -15,6 +16,7 @@
 <img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Go-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>
 </br>
 
 
