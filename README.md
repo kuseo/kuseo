@@ -20,7 +20,7 @@
 </br>
 
 
-### INTEREST*
+### INTEREST
 
 *Machine Learning*</br>
 *Container Orchestration*</br>
@@ -37,7 +37,7 @@
 
 ### CONTACT
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kang-uk-seo-7a81b3143/)](https://www.linkedin.com/in/kang-uk-seo-7a81b3143/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tjrkddnr200@gmail.com)](mailto:tjrkddnr200@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kanguk.seo12@gmail.com)](mailto:kanguk.seo12@gmail.com)
 
 </div>
 
