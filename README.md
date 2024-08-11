@@ -2,7 +2,8 @@
 
 ### **ABOUT ME**
 
-
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://kanguk-seo.notion.site/My-Blog-dd156372a6a84e449e4c6d4aa7912b68?pvs=4)
+</br>
 
 
 ### **TECH STACK**
@@ -28,11 +29,6 @@
 *MLOps*
 </br>
 
-
-### BLOG
-
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://crystalline-ferryboat-8cf.notion.site/ab445935e22f41799f59016930fb15c2?v=c43c88bc7781435e998c801e049451e7&pvs=4)
-</br>
 
 
 ### CONTACT
