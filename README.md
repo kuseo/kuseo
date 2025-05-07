@@ -2,7 +2,7 @@
 
 ### **ABOUT ME**
 
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://kanguk-seo.notion.site/My-Blog-dd156372a6a84e449e4c6d4aa7912b68?pvs=4)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://kanguk-seo.notion.site/My-Blog-1ec8360480d08087a597eb74d7e26191)
 </br>
 
 
